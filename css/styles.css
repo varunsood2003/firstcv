@@ -1,0 +1,30 @@
+body {
+  background-color :#E3FDFD;
+}
+hr {
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h3 {
+  color: #66BFBF;
+  font-size: 30px;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 40px;
+}
+.profile-picture{
+  border-radius: 100%;
+}
+h1:hover{
+  color: #1A5F7A;
+}
+.hovertext:hover{
+  color: #1A5F7A;
+}
+p{
+  font-size: 20px;
+}
